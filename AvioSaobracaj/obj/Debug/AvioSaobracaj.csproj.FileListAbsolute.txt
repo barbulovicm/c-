@@ -1,0 +1,7 @@
+C:\Users\barbu\source\repos\AvioSaobracaj\bin\Debug\AvioSaobracaj.exe.config
+C:\Users\barbu\source\repos\AvioSaobracaj\bin\Debug\AvioSaobracaj.exe
+C:\Users\barbu\source\repos\AvioSaobracaj\bin\Debug\AvioSaobracaj.pdb
+C:\Users\barbu\source\repos\AvioSaobracaj\obj\Debug\AvioSaobracaj.csprojAssemblyReference.cache
+C:\Users\barbu\source\repos\AvioSaobracaj\obj\Debug\AvioSaobracaj.csproj.CoreCompileInputs.cache
+C:\Users\barbu\source\repos\AvioSaobracaj\obj\Debug\AvioSaobracaj.exe
+C:\Users\barbu\source\repos\AvioSaobracaj\obj\Debug\AvioSaobracaj.pdb
